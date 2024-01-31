@@ -46,7 +46,7 @@
 
 % contractile element (CE)
 %===========================
-Param_Mus_MEF.CE.F_max = 1420;                 % F_max in [N] %source: Kistemaker2006, 
+Param_Mus_MEF.CE.F_max = 6000;                 % F_max in [N] %source: Kistemaker2006, 
 Param_Mus_MEF.CE.l_CEopt = 0.092;              % optimal length of CE in [m] %source: Kistemaker2006,
 
 % serial elastic element (SEE)
